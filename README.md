@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/61361957/103114634-42dcf800-4614-11eb-98da-67519ed46361.jpg" width="1200" alt="hero" />
+<img src="https://github.com/bimberman/bimberman/blob/main/portfolio-demo.gif?raw=true" width="1200" alt="hero" />
 
 ### Hi there! 👋
 
