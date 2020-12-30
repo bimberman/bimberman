@@ -14,10 +14,10 @@ I spent 3 months at LearningFuze and dedicated 10-12 hours each day learning new
 
 I'm currently looking for a job so if you think I would be a good fit for a position, then please get in touch!
 
-- 💻 I’m learning Vue.js, and looking into WordPress
+- 💻 I’m currently learning Vue.js
 - 📚 My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
 - 🛠 I use Bootstrap, npm, Babel, Webpack, and Slack
-- 🍃 After a full day of coding, I play D&D and other RPGs
+- 🍃 After a full day of coding, I enjoy playing D&D and other RPGs
 
 ## 📫 Get in touch!
 
