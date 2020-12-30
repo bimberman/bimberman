@@ -1,4 +1,4 @@
-[<img src="https://github.com/bimberman/bimberman/blob/main/portfolio-demo.gif?raw=true" width="1200" alt="hero" />](http://benimberman.com/)
+<a href="http://benimberman.com/" target="_blank"><img src="https://github.com/bimberman/bimberman/blob/main/portfolio-demo.gif?raw=true" width="1200" alt="hero" /></a>
 
 ### Hi there! 👋
 
