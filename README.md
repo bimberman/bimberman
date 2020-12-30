@@ -22,4 +22,4 @@ I'm currently looking for a job so if you think I would be a good fit for a posi
 ## 📫 Get in touch!
 
 - Portfolio: [https://benimberman.com](https://benimberman.com)
-- LinkedIn: [https://linkedin.com/in/benimberman](https://linkedin.com/in/benimberman)
+- LinkedIn: [https://www.linkedin.com/in/ben-imberman/](https://www.linkedin.com/in/ben-imberman/)
