@@ -1,5 +1,3 @@
-<a href="http://benimberman.com/" target="_blank"><img src="https://github.com/bimberman/bimberman/blob/main/portfolio-demo.gif?raw=true" width="1200" alt="hero" /></a>
-
 ### Hi there! 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bimberman&count_private=true&show_icons=true&theme=vue&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimberman&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,9 +20,11 @@ I'm currently looking for a job so if you think I would be a good fit for a posi
 ## 📫 Get in touch!
 
 - Portfolio: [https://benimberman.com](https://benimberman.com)
+<a href="http://benimberman.com/" target="_blank"><img src="https://github.com/bimberman/bimberman/blob/main/portfolio-demo.gif?raw=true" width="1200" alt="hero" /></a>
+
 - LinkedIn: [https://www.linkedin.com/in/ben-imberman/](https://www.linkedin.com/in/ben-imberman/)
 
-## t-rex-runner
+## T-Rex-Runner
 
 If you've made it this far and your bored of looking at all those applicant, then you're in luck!
 Take a moment and tackle some stress by playing a round of the fun and exciting T-Rex-Runner game.
