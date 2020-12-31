@@ -6,6 +6,10 @@ the trex runner game extracted from chrome offline err page.
 
 see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
 
+[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
+
+![chrome offline game cast](assets/screenshot.gif)
+
 <a href="http://benimberman.com/" target="_blank"><img src="https://github.com/bimberman/bimberman/blob/main/portfolio-demo.gif?raw=true" width="1200" alt="hero" /></a>
 
 ### Hi there! 👋
