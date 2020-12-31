@@ -34,4 +34,4 @@ See the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 
 [Click here](http://wayou.github.io/t-rex-runner/) to enjoy! :smile: 
 
-![chrome offline game cast](screenshot.gif)
+<a href="http://wayou.github.io/t-rex-runner/" target="_blank"><img src="screenshot.gif" width="1200" alt="hero" /></a>
