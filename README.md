@@ -8,7 +8,7 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 
 [go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
 
-![chrome offline game cast](assets/screenshot.gif)
+![chrome offline game cast](screenshot.gif)
 
 <a href="http://benimberman.com/" target="_blank"><img src="https://github.com/bimberman/bimberman/blob/main/portfolio-demo.gif?raw=true" width="1200" alt="hero" /></a>
 
