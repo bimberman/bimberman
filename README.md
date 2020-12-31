@@ -1,3 +1,11 @@
+## t-rex-runner
+
+If your bored of looking at all those applicant, then you've come to the right place!
+Take a moment and tackle some stress by playing a round of the fun and exciting T-Rex-Runner game.
+the trex runner game extracted from chrome offline err page.
+
+see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
+
 <a href="http://benimberman.com/" target="_blank"><img src="https://github.com/bimberman/bimberman/blob/main/portfolio-demo.gif?raw=true" width="1200" alt="hero" /></a>
 
 ### Hi there! 👋
