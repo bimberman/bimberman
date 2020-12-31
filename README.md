@@ -1,15 +1,3 @@
-## t-rex-runner
-
-If your bored of looking at all those applicant, then you've come to the right place!
-Take a moment and tackle some stress by playing a round of the fun and exciting T-Rex-Runner game.
-the trex runner game extracted from chrome offline err page.
-
-see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
-
-[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
-
-![chrome offline game cast](screenshot.gif)
-
 <a href="http://benimberman.com/" target="_blank"><img src="https://github.com/bimberman/bimberman/blob/main/portfolio-demo.gif?raw=true" width="1200" alt="hero" /></a>
 
 ### Hi there! 👋
@@ -35,3 +23,14 @@ I'm currently looking for a job so if you think I would be a good fit for a posi
 
 - Portfolio: [https://benimberman.com](https://benimberman.com)
 - LinkedIn: [https://www.linkedin.com/in/ben-imberman/](https://www.linkedin.com/in/ben-imberman/)
+
+## t-rex-runner
+
+If you've made it this far and your bored of looking at all those applicant, then you're in luck!
+Take a moment and tackle some stress by playing a round of the fun and exciting T-Rex-Runner game.
+
+see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
+
+[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
+
+![chrome offline game cast](screenshot.gif)
