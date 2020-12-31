@@ -31,6 +31,6 @@ Take a moment and tackle some stress by playing a round of the fun and exciting 
 
 see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
 
-[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
+Click [here](http://wayou.github.io/t-rex-runner/) to enjoy! :smile: 
 
 ![chrome offline game cast](screenshot.gif)
