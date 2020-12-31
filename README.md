@@ -8,7 +8,7 @@ Hi, my name is Ben Imberman, an ardent software developer with a background in M
 
 When I was in high school I discovered my interest in new technologies, which led to an undergraduate in Mechanical Engineering. During my education I honed in on my interests and found that I enjoy software development. After graduation I decided to pursue a career as a full stack developer and attended a full immersion web development program at LearningFuze to accomplish that end.
 
-I spent 3 months at LearningFuze and dedicated 10-12 hours each day learning new technologies and tools, such as JavaScript, React, Node.JS, and PostgreSQL. Following the work-like environment grew my knowledge and expertise in software development. The program also focused on learning new technologies independently, in an efficient and effective way.
+I spent 3 months at LearningFuze and dedicated 10-12 hours each day learning new technologies and tools, such as JavaScript, React, Node.JS, and PostgreSQL. Following the work-like environment, grew my knowledge and expertise in software development. The program also focused on learning new technologies independently, in an efficient and effective way.
 
 I'm currently looking for a job so if you think I would be a good fit for a position, then please get in touch!
 
