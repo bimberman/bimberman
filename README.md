@@ -26,8 +26,8 @@ I'm currently looking for a job so if you think I would be a good fit for a posi
 
 ## T-Rex-Runner
 
-If you've made it this far and your bored of looking at all those applicant, then you're in luck!
-Take a moment and tackle some stress by playing a round of the fun and exciting T-Rex-Runner game.
+If you've made it this far and your bored, possibly from looking at resumes and GitHub pages from 10,000 different applicants, then you're in luck!
+Take a moment and tackle some stress by playing a round of the fun and exciting game - the T-Rex-Runner game.
 
 see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
 
