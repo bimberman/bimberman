@@ -19,6 +19,7 @@ I'm currently looking for a job so if you think I would be a good fit for a posi
 
 ## 📫 Get in touch!
 
+- Email: bimberman@gmail.com
 - Portfolio: [https://benimberman.com](https://benimberman.com)
 <a href="http://benimberman.com/" target="_blank"><img src="https://github.com/bimberman/bimberman/blob/main/portfolio-demo.gif?raw=true" width="1200" alt="hero" /></a>
 
