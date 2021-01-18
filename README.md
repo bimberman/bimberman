@@ -27,7 +27,7 @@ I'm currently looking for a job so if you think I would be a good fit for a posi
 
 ## T-Rex-Runner
 
-If you've made it this far and your bored, possibly from looking at resumes and GitHub pages from 10,000 different applicants, then you're in luck!
+If you've made it this far and you're bored, possibly from looking at resumes and GitHub pages from 10,000 different applicants, then you're in luck!
 
 Take a moment and tackle some stress by playing a round of the fun and exciting game T-Rex-Runner.
 
