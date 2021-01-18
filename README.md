@@ -12,7 +12,7 @@ I spent 3 months at LearningFuze and dedicated 10-12 hours each day learning new
 
 I'm currently looking for a job so if you think I would be a good fit for a position, then please get in touch!
 
-- 💻 I’m currently co-authering a paper on Natural Language Processing (NLP)
+- 💻 I’m currently co-authering a paper on analysing bias using Natural Language Processing (NLP)
 - 📚 My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
 - 🛠 I use Bootstrap, npm, Babel, Webpack, and Slack
 - 🍃 After a full day of coding, I enjoy playing D&D and other RPGs
