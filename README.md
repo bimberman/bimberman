@@ -4,17 +4,10 @@
 
 ## 💬 About me
 
-Hi, my name is Ben Imberman, an ardent software developer with a background in Mechanical Engineering.
-
-When I was in high school I discovered my interest in new technologies, which led to an undergraduate in Mechanical Engineering. During my education I honed in on my interests and found that I enjoy software development. After graduation I decided to pursue a career as a full stack developer and attended a full immersion web development program at LearningFuze to accomplish that end.
-
-I spent 3 months at LearningFuze and dedicated 10-12 hours each day learning new technologies and tools, such as JavaScript, React, Node.JS, and PostgreSQL. Following the work-like environment, grew my knowledge and expertise in software development. The program also focused on learning new technologies independently, in an efficient and effective way.
-
-I'm currently looking for a job so if you think I would be a good fit for a position, then please get in touch!
+Hi, my name is Ben Imberman, and I am a creative developer who possesses a passion for designing fully functional applications using my Full Stack Java/JavaScript Development skills. I have a deep passion for coding and am looking forward to showcasing my recently enhanced skills with a company I can grow in.
 
 - 💻 I’m currently co-authering a paper on analysing bias using Natural Language Processing (NLP)
-- 📚 My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
-- 🛠 I use Bootstrap, npm, Babel, Webpack, and Slack
+- 📚 My tech stack is JavaScript or Java.
 - 🍃 After a full day of coding, I enjoy playing D&D and other RPGs
 
 ## 📫 Get in touch!
