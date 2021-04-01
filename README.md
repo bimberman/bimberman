@@ -5,10 +5,10 @@
 
 ## 💬 About me
 
-Hi, my name is Ben Imberman, and I am a creative developer who possesses a passion for designing fully functional applications using my Full Stack Java/JavaScript Development skills. I have a deep passion for coding and am looking forward to showcasing my recently enhanced skills with a company I can grow in.
+Hi, my name is Ben Imberman, and I am a creative developer who possesses a passion for designing fully functional applications using my Full Stack Java/JavaScript Development skills. I have a deep passion for coding and am looking forward to showcasing my skills with a company I can grow in.
 
-- 💻 I’m currently co-authering a paper on analysing bias using Natural Language Processing (NLP)
-- 📚 My tech stack is JavaScript or Java.
+- 💻 I’m currently employeed by Collabera as a Java full stack developer
+- 📚 My tech stack is JavaScript(PERN) or Java (JOLT).
 - 🍃 After a full day of coding, I enjoy playing D&D and other RPGs
 
 ## 📫 Get in touch!
