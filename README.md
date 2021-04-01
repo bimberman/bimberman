@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bimberman&count_private=true&show_icons=true&theme=vue&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimberman&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bimberman)](https://github.com/anuraghazra/github-readme-stats)
+[![Bimberman's github stats](https://github-readme-stats.vercel.app/api?username=bimberman&count_private=true&show_icons=true&theme=vue&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimberman&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) [![Bimberman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bimberman)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💬 About me
