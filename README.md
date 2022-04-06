@@ -14,8 +14,8 @@ Hi, my name is Ben Imberman, and I am a creative developer who possesses a passi
 ## 📫 Get in touch!
 
 - Email: bimberman@gmail.com
-- Portfolio: [https://benimberman.com](https://benimberman.com)
-<a href="http://benimberman.com/" target="_blank"><img src="https://github.com/bimberman/bimberman/blob/main/portfolio-demo.gif?raw=true" width="1200" alt="hero" /></a>
+<!-- - Portfolio: [https://benimberman.com](https://benimberman.com)
+<a href="http://benimberman.com/" target="_blank"><img src="https://github.com/bimberman/bimberman/blob/main/portfolio-demo.gif?raw=true" width="1200" alt="hero" /></a> -->
 
 - LinkedIn: [https://www.linkedin.com/in/ben-imberman/](https://www.linkedin.com/in/ben-imberman/)
 
