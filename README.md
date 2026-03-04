@@ -1,7 +1,4 @@
 ### Hi there! 👋
-
-[![Ben Imberman's GitHub stats](https://github-readme-stats.vercel.app/api?username=bimberman)](https://github.com/bimberman/github-readme-stats)
-
 ## 💬 About me
 
 Hi, my name is Ben Imberman, and I am a creative developer who possesses a passion for designing fully functional applications using my Full Stack Java/JavaScript Development skills. I have a deep passion for coding and am looking forward to showcasing my skills with a company I can grow in.
